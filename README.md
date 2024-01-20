@@ -1,17 +1,26 @@
-### A place where I push code
+### _A place where I push code_
 
-<!--
-**PlashSpeed-Aiman/PlashSpeed-Aiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+- .NET Core Development
+- Web Development with Vue.js
+- OCaml/F# stuff
 
-Here are some ideas to get you started:
+### Technologies I use
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![F#](https://img.shields.io/badge/-F%23-000000?style=flat&logo=f-sharp)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
+![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```fsharp
+open System
 
+let hello a =
+    printfn "Hello %s" a
+    
+let world = "world"
+
+hello world
+```
