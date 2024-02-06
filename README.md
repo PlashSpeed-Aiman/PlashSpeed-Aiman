@@ -3,13 +3,14 @@
 ### Who I am
 - Biochem Engineering graduate
 - .NET Backend Developer
-
+  
 ### What I do
 - .NET Core Development
 - Web Development with Vue.js
 - OCaml/F# stuff
 - Help build #GerakanDeveloperTanahair
-
+- Tutor Young Coders
+- 
 ### What I like to learn
 - Functional Programming
 - Distributed Computing
