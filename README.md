@@ -1,10 +1,19 @@
 ### _A place where I push code_
 
+### Who I am
+- Biochem Engineering graduate
+- .NET Backend Developer
+
 ### What I do
 - .NET Core Development
 - Web Development with Vue.js
 - OCaml/F# stuff
 - Help build #GerakanDeveloperTanahair
+
+### What I like to learn
+- Functional Programming
+- Distributed Computing
+- Machine Learning + Statistics
 
 ### Technologies I use
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
