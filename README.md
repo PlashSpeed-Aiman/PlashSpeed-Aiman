@@ -10,7 +10,7 @@
 - OCaml/F# stuff
 - Help build #GerakanDeveloperTanahair
 - Tutor Young Coders
-- 
+- FYP Consultation
 ### What I like to learn
 - Functional Programming
 - Distributed Computing
