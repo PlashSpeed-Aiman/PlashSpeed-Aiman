@@ -2,7 +2,7 @@
 
 ### Who I am
 - Biochem Engineering graduate
-- .NET Backend Developer
+- Fullstack .NET Developer
   
 ### What I do
 - .NET Core Development
