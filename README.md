@@ -1,5 +1,5 @@
 ### _A place where I push code_
-
+I'm with Farisy rn....
 ### Who I am
 - Biochem Engineering graduate
 - Fullstack .NET Developer
